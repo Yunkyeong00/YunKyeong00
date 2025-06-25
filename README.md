@@ -4,8 +4,7 @@
 **Yunkyeong00/YunKyeong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-##
-###
+![image](https://github.com/user-attachments/assets/dbf0352c-c503-4fc2-9f92-3fa404bac520)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
